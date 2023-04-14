@@ -8,3 +8,14 @@
 
 тестирование требований, тест-кейсы, баг репорты:
 https://docs.google.com/spreadsheets/d/1K_mpnQ493rdWMmW6SHa1D4x_jjj8iwxD/edit?usp=sharing&ouid=105727137256268828903&rtpof=true&sd=true
+
+
+pytest test_auth.py
+========================= 16 passed, 20 warnings in 290.12s (0:04:50) 
+
+
+pytest test_registracia.py
+======================== 6 passed, 7 warnings in 103.76s (0:01:43) 
+
+
+
